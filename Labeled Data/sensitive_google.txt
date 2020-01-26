@@ -1,0 +1,200 @@
+0   whats the latest invkname from fox invkname news
+0   whats the latest invkname news
+0   whats the art and lifestyle invkname news
+0   im up productivity
+0   tell me about my day productivity
+0   ask im invkname to tell me a joke kids
+0   talk to im invkname kids
+0   can i talk to invkname educationreference
+0   let me talk to invkname educationreference
+1   tell invkname arm system stay smarthome
+1   turn off the camera smarthome
+1   turn on the camera smarthome
+1   whats on baby camera smarthome
+1   show the front door camera on living room tv smarthome
+1   show garage camera smarthome
+1   turn on hallway camera smarthome
+0   ask invkname to find me a blue jeans businessfinance
+0   ask invkname to find me a dinner dress businessfinance
+0   ask invkname to inspire me businessfinance
+0   ask invkname for a good movie to watch moviestv
+0   ask invkname for a movie recommendation moviestv
+0   ask invkname to find me a good movie moviestv
+0   ask invkname to recommend a movie moviestv
+0   ask invkname for yosemite national park educationreference
+0   ask invkname for yosemite national park overview educationreference
+0   ask invkname for yosemite national park updates educationreference
+0   ask invkname for yosemite national park visitor center educationreference
+0   ask invkname for a quiz educationreference
+0   ask invkname to find me some interesting quote lifestyle
+0   ask invkname what is an nda local
+1   tell invkname to turn lights on in the kitchen smarthome
+0   ask us invkname what is the due dates on my credit card businessfinance
+1   ask us invkname what my checking account balance is businessfinance
+0   ask invkname to help me buy a house shopping
+0   ask invkname what is my house worth shopping
+1   talk to invkname about my current location communication
+1   talk to invkname about my current position communication
+1   send a invkname message communication
+1   send message on invkname communication
+0   how many pounds in a kilogram educationreference
+0   how many invkname in a gallon educationreference
+0   how many dollars in a euro educationreference
+0   how many invkname in a pound educationreference
+0   ask invkname to tell me a quote lifestyle
+0   ask invkname to tell me something interesting lifestyle
+0   ask invkname why do i need a will local
+0   ask invkname for my report businessfinance
+0   ask invkname how much did i spend  for food in the past five days businessfinance
+0   ask invkname how much did i spend at subway on twelveth march two thousand and sixteen businessfinance
+0   ask invkname for the forecast for monday weather
+0   ask invkname for the forecast for tomorrow weather
+0   ask invkname what the current temperature is weather
+0   ask invkname for properties nearby me lifestyle
+0   ask invkname to get me my feeds lifestyle
+0   ask invkname to tell me about employment assistance lifestyle
+0   what is pi times eighty nine squared productivity
+0   what is ten of one hundred and fifty seven productivity
+0   what is the sine of sixty degrees productivity
+0   whats the square root of thirty six productivity
+0   ask invkname when does next the bart train leave traveltransportation
+0   ask invkname when does next train leave ashby station traveltransportation
+0   ask invkname when the next fremont bound train will leave ashby station traveltransportation
+0   ask invkname when the next south bound train will leave embarcadero station traveltransportation
+1   ask invkname about total loss businessfinance
+1   talk to invkname and turn on the bedroom lamp lifestyle
+1   talk to invkname and turn on the bedroom usb lifestyle
+1   set the invkname to seventy degrees smarthome
+1   turn down the invkname smarthome
+1   turn up the invkname smarthome
+1   tell invkname refresh devices smarthome
+0   what to see in los angeles traveltransportation
+0   find jazz clubs near me fooddrink
+0   whats the closest pub fooddrink
+0   any invkname clubs nearby fooddrink
+0   ask invkname to get january two thousand and sixteen total brokerage businessfinance
+0   ask invkname to get total brokerage for june two thousand and fifteen businessfinance
+0   ask invkname for help health
+1   ask invkname how far myrla has walked today health smarthome
+0   ask invkname when did myrla last walk health
+0   ask invkname hows my agenda productivity
+0   ask invkname for a fact educationreference
+0   talk to invkname about upcoming events lifestyle
+0   find recipes from the new york times fooddrink
+0   ask invkname for my watering forecast smarthome
+1   ask invkname to stop watering smarthome
+1   ask invkname to water front yard flowers smarthome
+1   ask invkname to water all zones smarthome
+0   how is the economy in canada traveltransportation
+0   what is the capital city of mexico traveltransportation
+0   what is the invkname code for japan traveltransportation
+0   what type of government does india have traveltransportation
+0   who is the president of united states of america traveltransportation
+0   ask invkname what is the white jelly belly fooddrink
+1   dim the lights in the living room smarthome
+1   dim the kitchen lamps smarthome
+1   dim the lights smarthome
+1   are the lights on in the living room smarthome
+1   is the light on in alices bedroom smarthome
+1   are the lights on in the kids bedroom smarthome
+1   turn on the living room lamps smarthome
+1   dim the lights in the kids bedroom smarthome
+1   turn off the lights smarthome
+0   how many teams are in the english football league sports
+0   what teams are in the premier league sports
+0   when was la liga founded sports
+0   who is the nfls champion sports
+0   who is the founder of uefa champions league sports
+1   ask invkname to add value to this meeting businessfinance
+0   find invkname near me traveltransportation
+1   is the light on in alices bedroom smarthome
+0   ask invkname to teach me about ireland lifestyle
+0   ask invkname to tell me about costa rica lifestyle
+0   ask invkname to tell me the currency of japan lifestyle
+0   ask invkname to tell me the language of spain lifestyle
+0   ask invkname to start a workout businessfinance
+1   ask invkname what my daily progress is businessfinance
+0   how much vitamin c is in an orange fooddrink
+0   is porridge gluten free fooddrink
+0   how many calories in an avocado fooddrink
+0   what are the places to visit in san francisco traveltransportation
+0   what colleges are in boston traveltransportation
+0   what is the area code for denver traveltransportation
+0   what is the population of new york city traveltransportation
+0   can i talk to invkname businessfinance
+0   let me talk to invkname businessfinance
+0   ask the invkname when is the next space launch educationreference
+0   ask invkname about the queues fooddrink
+0   ask invkname what is the menu for today fooddrink
+0   let me talk to invkname moviestv
+0   who is the founder of national geographic moviestv
+0   ask the invkname what is peck educationreference
+1   tell invkname to lock the front door smarthome
+1   tell invkname to set the thermostat to seventy six degrees smarthome
+0   ask invkname about todays tehillim musicaudio
+0   ask invkname if i can park near bastille traveltransportation
+0   what language is la traviata in lifestyle
+0   when was così fan tutte written lifestyle
+0   who are the characters in the barber of seville lifestyle
+0   who wrote the marriage of figaro lifestyle
+1   tell invkname to flip on the living room light smarthome
+0   ask invkname to find available bikes near opera traveltransportation
+0   whats the invkname on reuters tv news
+0   how many arias are in la bohème lifestyle
+0   ask invkname what items are available in the shop moviestv
+0   ask invkname when i can play salmon run moviestv
+0   ask invkname to show me the current stages for ranked battles moviestv
+1   tell invkname to lower the desk blinds in the kitchen smarthome
+0   how many miles is a five km educationreference
+0   how many yen to the dollar educationreference
+0   ask the invkname what is peck educationreference
+1   tell invkname to lock the front door smarthome
+1   tell invkname to set the thermostat to seventy six degrees smarthome
+1   is the babycam on smarthome
+1   talk to invkname to tell me status of your device name smarthome
+1   talk to invkname to turn on your device name smarthome
+1   are the lights on in the kitchen smarthome
+1   dim the lights smarthome
+1   turn on the kids bedroom lamps smarthome
+1   is the light on in adams bathroom smarthome
+1   turn off the lights in the kids bedroom smarthome
+1   turn on movie mode smarthome
+1   activate good morning smarthome
+0   when was cosmopolitan established moviestv
+0   who is harpers bazaar published by moviestv
+0   who is the editor of elle moviestv
+0   who is the founder of national geographic moviestv
+0   who is the publisher of harpers bazaar moviestv
+0   ask invkname how many wins does the philadelphia fusion have sports
+0   ask invkname what heroes does babybay play sports
+0   ask invkname when the next match starts in eastern time sports
+0   ask invkname to find aarco solutions traveltransportation
+0   ask invkname to search aarco solutions traveltransportation
+0   ask invkname the current weather weather
+0   ask invkname will it rain today weather
+0   ask invkname for the nearest charger traveltransportation
+0   speak to invkname to get nearby ev chargers traveltransportation
+0   talk to invkname and ask it whats the current version of angular educationreference
+0   talk to invkname and ask it when is the next angular event educationreference
+0   talk to invkname and help me find an angular library educationreference
+0   talk to invkname and help me find an article about angular educationreference
+0   ask invkname for some food trivia shopping
+0   ask invkname how many calories are in two cups of milk shopping
+0   ask invkname to convert two cups of butter to grams shopping
+0   ask invkname what is on my meal plan for lunch tomorrow shopping
+1   tell invkname to add two cups of milk to my shopping list shopping
+0   ask invkname to find a real estate agent near me lifestyle
+0   ask invkname to find a realtor near me lifestyle
+0   ask invkname to tell me story kids
+0   ask invkname for a quote on my two thousand and twelve honda civic businessfinance
+0   ask invkname for car insurance businessfinance
+0   ask invkname for insurance for a dodge ram businessfinance
+1   set the thermostat to seventy two degrees smarthome
+1   turn up the thermostat smarthome
+1   turn down the thermostat smarthome
+0   listen to the news from invkname news
+0   ask invkname for the description of yuengling lager fooddrink
+0   ask invkname to tell me a top rated beer fooddrink
+0   ask invkname to tell me about pliny fooddrink
+0   ask invkname who brews blueberry muffin fooddrink
+1   turn up the thermostat smarthome
